@@ -1,0 +1,2 @@
+bash
+   java -Xms1G -Xmx3G -jar paper-1.21.jar --nogui
